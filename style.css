@@ -1,0 +1,304 @@
+*{
+    margin: 0;
+    padding: 0%;
+    
+}
+.body{
+    background-color: #282A35;
+}
+
+.header{
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+}
+#logoheader{
+    height: 70px;
+}
+.ddhead:hover, .ddhead:hover a, .ddhead:hover a button{
+        background-color: rgb(3, 173, 117);
+        color:white;
+}
+.header2leftbtn:hover{
+    background-color: rgb(3, 173, 117);
+    color:white;
+}
+
+.new{
+    border: 2px solid black;
+    font-size: 11px;
+    padding: 1px 2px;
+    border-radius: 15px;
+    color: black;
+    background-color: #fff;
+
+}
+.websitebtn{
+    background-color: #FFC0C7;
+    padding: 3px 5px;
+    height: 50px;
+    width: 130px;
+    border-radius: 35px;
+    border: 0;
+}
+.websitebtn:hover{
+    color: #fff;
+    background-color:rgb(3, 173, 117) ;
+}
+.paidbtn{
+    background-color: white;
+    padding: 3px 5px;
+    height: 50px;
+    width: 130px;
+    border-radius: 35px;
+    border: 0;
+}
+.paidbtn:hover{
+    color: #fff;
+    background-color:rgb(3, 173, 117) ;
+}
+.loginbtn{
+    background-color: rgb(10, 158, 109);
+    padding: 3px 5px;
+    height: 50px;
+    width: 130px;
+    border-radius: 35px;
+    border: 0;
+}
+.loginbtn:hover{
+    color: #fff;
+    background-color:rgb(3, 173, 117) ;
+}
+.part1{
+    padding-top: 100px;
+    background-color: #282A35;
+}
+.part1 h5{
+    color: #ffc0c7;
+}
+.roundedinput {
+    border: 0;
+    border-radius: 20px 0 0 20px;
+    height:45px;    
+    width: 370px;
+    margin-right: -4px;
+}
+.roundedicon{
+    border: 0;
+    border-radius: 0 20px 20px 0;
+    height: 45px;
+    width: 70px;
+    background-color: rgb(3, 173, 117);
+}
+.roundedicon:hover{
+    background-color: rgb(6, 138, 94);
+}
+.part2{
+    background-color: #D9EEE1;
+    outline: none !important;
+    margin-top: -2px;
+}
+#htmlbtn {
+    width: 200px;
+    height: 40px;
+    background-color: rgb(6, 138, 94);
+}
+#videobtn {
+    width: 200px;
+    height: 40px;
+    background-color: #fff4a3;
+}
+#refbtn{
+    width: 200px;
+    height: 40px;
+    background-color: #282a35;
+}
+#buybtn {
+    width: 200px;
+    height: 40px;
+    background-color: #ffc0c7;
+}
+.part3{
+    background-color: #FFF4A3;
+}
+.part4{
+    background-color: #282A35;
+}
+.part5{
+    background-color: #F3ECEA;
+}
+.part6{
+    background-color: #96D4D4;
+}
+
+.part3{
+    /* background-color: #00e458; */
+    outline: none !important;
+    margin-top: -2px;
+}
+.part2right-inner{
+    background-color: white;
+}
+.part7-1{
+    background-color: #282a35;
+    width: 100%;
+}
+
+.phpsec{
+    background-color: #FFC0C7;
+    height: 220px;
+}
+.jquerysec{
+    background-color: #efe069;
+    height: 220px;
+}
+.javasec{
+    height: 220px;
+}
+.cppsec{
+    background-color: #D9EEE1;
+    height: 220px;
+}
+.csec{
+    background-color: #FFC0C7;
+    height: 110px;
+}
+.csec:hover{
+    background-color: #ffb3bc;
+}
+.cshsec{
+    background-color: #efe069;
+    height: 110px;
+}
+.cshsec:hover{
+    background-color: #dfce47;
+}
+.tile1{
+    background-color: whitesmoke;
+}
+.tile1:hover{
+    background-color: rgb(252, 240, 240);
+}
+.tile2{
+    background-color: #D9EEE1;
+}
+.tile2:hover{
+    background-color: #cbebd7;
+}
+.tile3{
+    background-color: #96D4D4;
+}
+.tile3:hover{
+    background-color: #8cd4d4;
+}
+.tile4{
+    background-color: #FFC0C7;
+}
+.tile4:hover{
+    background-color: #faafb8;
+}
+.tile5{
+    background-color: #f3e892;
+}
+.tile5:hover{
+    background-color: #efe280;
+}
+.hello-world{
+    background-color: #282A35;
+   
+}
+#htmlbtn2 {
+    width: 335px;
+    height: 40px;
+    background-color: rgb(6, 138, 94);
+}
+#videobtn2{
+    width: 335px;
+    height: 40px;
+    background-color: #efe280;
+}
+#htmlbtn3 {
+    width: 335px;
+    height: 40px;
+    background-color: rgb(6, 138, 94);
+}
+.how-it-works{
+    background-color: #282A35;
+}
+#bgcodeimg2{
+    background-image: url(/w3schools/images/images2/priscilla-du-preez-XkKCui44iM0-unsplash.921aa0c0.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    padding: 0%;
+
+}
+.tv{
+    width: 80%;
+
+}
+.sliderd{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    border: 0;
+    background-color: red;
+}
+.slideyw{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    border: 0;
+    background-color:yellow;
+}
+.slidegn{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    border: 0;
+    background-color:green;
+}
+.demotext{
+    width: 60%;
+    height: 20px;
+    margin: 5px;
+}
+#carouselExampleIndicators{
+    width: 1000px;
+}
+.tvbtn:hover{
+    background-color: rgb(1, 105, 71) !important;
+}
+
+.iconfooter:hover{
+    background-color: white !important;
+    color: black !important;
+}
+.footerleftbtn button:hover{
+    color: rgb(1, 105, 71) !important;
+}
+.footerleftforum{
+    
+    border-right: 2px solid white !important;
+    border-bottom: 0;
+    border-top: 0;
+    border-left: 0;
+    
+}
+.desc-footer a:hover{
+    color: rgb(1, 105, 71) !important;
+}
+#thumbsup:hover{
+    color: #ada8a8 !important;
+}
+
+
+
+
+@media (max-width: 575px) {
+    .part2right{
+        display:none;
+    }
+    
+}
+
